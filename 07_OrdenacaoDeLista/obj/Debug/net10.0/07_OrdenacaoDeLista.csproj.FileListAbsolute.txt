@@ -1,0 +1,14 @@
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\bin\Debug\net10.0\07_OrdenacaoDeLista.exe
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\bin\Debug\net10.0\07_OrdenacaoDeLista.deps.json
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\bin\Debug\net10.0\07_OrdenacaoDeLista.runtimeconfig.json
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\bin\Debug\net10.0\07_OrdenacaoDeLista.dll
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\bin\Debug\net10.0\07_OrdenacaoDeLista.pdb
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\obj\Debug\net10.0\07_OrdenacaoDeLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\obj\Debug\net10.0\07_OrdenacaoDeLista.AssemblyInfoInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\obj\Debug\net10.0\07_OrdenacaoDeLista.AssemblyInfo.cs
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\obj\Debug\net10.0\07_OrdenacaoDeLista.csproj.CoreCompileInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\obj\Debug\net10.0\07_OrdenacaoDeLista.dll
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\obj\Debug\net10.0\refint\07_OrdenacaoDeLista.dll
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\obj\Debug\net10.0\07_OrdenacaoDeLista.pdb
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\obj\Debug\net10.0\07_OrdenacaoDeLista.genruntimeconfig.cache
+C:\dev\TesteDesenvolvimentoDigifort\07_OrdenacaoDeLista\obj\Debug\net10.0\ref\07_OrdenacaoDeLista.dll

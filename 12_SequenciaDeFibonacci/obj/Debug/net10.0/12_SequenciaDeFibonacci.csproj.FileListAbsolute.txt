@@ -1,0 +1,14 @@
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\bin\Debug\net10.0\12_SequenciaDeFibonacci.exe
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\bin\Debug\net10.0\12_SequenciaDeFibonacci.deps.json
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\bin\Debug\net10.0\12_SequenciaDeFibonacci.runtimeconfig.json
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\bin\Debug\net10.0\12_SequenciaDeFibonacci.dll
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\bin\Debug\net10.0\12_SequenciaDeFibonacci.pdb
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\obj\Debug\net10.0\12_SequenciaDeFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\obj\Debug\net10.0\12_SequenciaDeFibonacci.AssemblyInfoInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\obj\Debug\net10.0\12_SequenciaDeFibonacci.AssemblyInfo.cs
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\obj\Debug\net10.0\12_SequenciaDeFibonacci.csproj.CoreCompileInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\obj\Debug\net10.0\12_SequenciaDeFibonacci.dll
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\obj\Debug\net10.0\refint\12_SequenciaDeFibonacci.dll
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\obj\Debug\net10.0\12_SequenciaDeFibonacci.pdb
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\obj\Debug\net10.0\12_SequenciaDeFibonacci.genruntimeconfig.cache
+C:\dev\TesteDesenvolvimentoDigifort\12_SequenciaDeFibonacci\obj\Debug\net10.0\ref\12_SequenciaDeFibonacci.dll

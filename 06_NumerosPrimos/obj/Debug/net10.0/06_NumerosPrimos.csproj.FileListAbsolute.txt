@@ -1,0 +1,14 @@
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\bin\Debug\net10.0\06_NumerosPrimos.exe
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\bin\Debug\net10.0\06_NumerosPrimos.deps.json
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\bin\Debug\net10.0\06_NumerosPrimos.runtimeconfig.json
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\bin\Debug\net10.0\06_NumerosPrimos.dll
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\bin\Debug\net10.0\06_NumerosPrimos.pdb
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\obj\Debug\net10.0\06_NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\obj\Debug\net10.0\06_NumerosPrimos.AssemblyInfoInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\obj\Debug\net10.0\06_NumerosPrimos.AssemblyInfo.cs
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\obj\Debug\net10.0\06_NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\obj\Debug\net10.0\06_NumerosPrimos.dll
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\obj\Debug\net10.0\refint\06_NumerosPrimos.dll
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\obj\Debug\net10.0\06_NumerosPrimos.pdb
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\obj\Debug\net10.0\06_NumerosPrimos.genruntimeconfig.cache
+C:\dev\TesteDesenvolvimentoDigifort\06_NumerosPrimos\obj\Debug\net10.0\ref\06_NumerosPrimos.dll

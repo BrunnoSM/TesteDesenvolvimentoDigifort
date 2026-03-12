@@ -1,0 +1,14 @@
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\bin\Debug\net10.0\16_ManipulacaoDeArrays.exe
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\bin\Debug\net10.0\16_ManipulacaoDeArrays.deps.json
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\bin\Debug\net10.0\16_ManipulacaoDeArrays.runtimeconfig.json
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\bin\Debug\net10.0\16_ManipulacaoDeArrays.dll
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\bin\Debug\net10.0\16_ManipulacaoDeArrays.pdb
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\obj\Debug\net10.0\16_ManipulacaoDeArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\obj\Debug\net10.0\16_ManipulacaoDeArrays.AssemblyInfoInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\obj\Debug\net10.0\16_ManipulacaoDeArrays.AssemblyInfo.cs
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\obj\Debug\net10.0\16_ManipulacaoDeArrays.csproj.CoreCompileInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\obj\Debug\net10.0\16_ManipulacaoDeArrays.dll
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\obj\Debug\net10.0\refint\16_ManipulacaoDeArrays.dll
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\obj\Debug\net10.0\16_ManipulacaoDeArrays.pdb
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\obj\Debug\net10.0\16_ManipulacaoDeArrays.genruntimeconfig.cache
+C:\dev\TesteDesenvolvimentoDigifort\16_ManipulacaoDeArrays\obj\Debug\net10.0\ref\16_ManipulacaoDeArrays.dll

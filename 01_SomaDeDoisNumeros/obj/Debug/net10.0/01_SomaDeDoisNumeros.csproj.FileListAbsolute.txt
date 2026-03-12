@@ -1,0 +1,14 @@
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\bin\Debug\net10.0\01_SomaDeDoisNumeros.exe
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\bin\Debug\net10.0\01_SomaDeDoisNumeros.deps.json
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\bin\Debug\net10.0\01_SomaDeDoisNumeros.runtimeconfig.json
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\bin\Debug\net10.0\01_SomaDeDoisNumeros.dll
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\bin\Debug\net10.0\01_SomaDeDoisNumeros.pdb
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\obj\Debug\net10.0\01_SomaDeDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\obj\Debug\net10.0\01_SomaDeDoisNumeros.AssemblyInfoInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\obj\Debug\net10.0\01_SomaDeDoisNumeros.AssemblyInfo.cs
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\obj\Debug\net10.0\01_SomaDeDoisNumeros.csproj.CoreCompileInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\obj\Debug\net10.0\01_SomaDeDoisNumeros.dll
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\obj\Debug\net10.0\refint\01_SomaDeDoisNumeros.dll
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\obj\Debug\net10.0\01_SomaDeDoisNumeros.pdb
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\obj\Debug\net10.0\01_SomaDeDoisNumeros.genruntimeconfig.cache
+C:\dev\TesteDesenvolvimentoDigifort\01_SomaDeDoisNumeros\obj\Debug\net10.0\ref\01_SomaDeDoisNumeros.dll

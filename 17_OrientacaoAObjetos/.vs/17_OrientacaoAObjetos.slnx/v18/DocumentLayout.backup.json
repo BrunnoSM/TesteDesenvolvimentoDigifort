@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|c:\\dev\\testedesenvolvimentodigifort\\17_orientacaoaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|c:\\dev\\testedesenvolvimentodigifort\\17_orientacaoaobjetos\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|solutionrelative:livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|c:\\dev\\testedesenvolvimentodigifort\\17_orientacaoaobjetos\\livrofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|solutionrelative:livrofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|c:\\dev\\testedesenvolvimentodigifort\\17_orientacaoaobjetos\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|solutionrelative:ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|c:\\dev\\testedesenvolvimentodigifort\\17_orientacaoaobjetos\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06CC38-5D71-8B42-5175-E600B7082216}|17_OrientacaoAObjetos.csproj|solutionrelative:biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:23:40.858Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Biblioteca.cs",
+              "ToolTip": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\Biblioteca.cs",
+              "RelativeToolTip": "Biblioteca.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:49:04.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\Ebook.cs",
+              "RelativeDocumentMoniker": "Ebook.cs",
+              "ToolTip": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\Ebook.cs",
+              "RelativeToolTip": "Ebook.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:48:52.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroFisico.cs",
+              "DocumentMoniker": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\LivroFisico.cs",
+              "RelativeDocumentMoniker": "LivroFisico.cs",
+              "ToolTip": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\LivroFisico.cs",
+              "RelativeToolTip": "LivroFisico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:48:40.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\Livro.cs",
+              "RelativeDocumentMoniker": "Livro.cs",
+              "ToolTip": "C:\\dev\\TesteDesenvolvimentoDigifort\\17_OrientacaoAObjetos\\Livro.cs",
+              "RelativeToolTip": "Livro.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:48:25.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

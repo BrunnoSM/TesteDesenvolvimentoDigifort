@@ -1,0 +1,14 @@
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\bin\Debug\net10.0\03_FatorialDeUmNumero.exe
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\bin\Debug\net10.0\03_FatorialDeUmNumero.deps.json
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\bin\Debug\net10.0\03_FatorialDeUmNumero.runtimeconfig.json
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\bin\Debug\net10.0\03_FatorialDeUmNumero.dll
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\bin\Debug\net10.0\03_FatorialDeUmNumero.pdb
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\obj\Debug\net10.0\03_FatorialDeUmNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\obj\Debug\net10.0\03_FatorialDeUmNumero.AssemblyInfoInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\obj\Debug\net10.0\03_FatorialDeUmNumero.AssemblyInfo.cs
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\obj\Debug\net10.0\03_FatorialDeUmNumero.csproj.CoreCompileInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\obj\Debug\net10.0\03_FatorialDeUmNumero.dll
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\obj\Debug\net10.0\refint\03_FatorialDeUmNumero.dll
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\obj\Debug\net10.0\03_FatorialDeUmNumero.pdb
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\obj\Debug\net10.0\03_FatorialDeUmNumero.genruntimeconfig.cache
+C:\dev\TesteDesenvolvimentoDigifort\03_FatorialDeUmNumero\obj\Debug\net10.0\ref\03_FatorialDeUmNumero.dll

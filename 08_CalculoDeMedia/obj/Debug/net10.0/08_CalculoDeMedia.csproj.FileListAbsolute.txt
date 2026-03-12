@@ -1,0 +1,14 @@
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\bin\Debug\net10.0\08_CalculoDeMedia.exe
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\bin\Debug\net10.0\08_CalculoDeMedia.deps.json
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\bin\Debug\net10.0\08_CalculoDeMedia.runtimeconfig.json
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\bin\Debug\net10.0\08_CalculoDeMedia.dll
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\bin\Debug\net10.0\08_CalculoDeMedia.pdb
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\obj\Debug\net10.0\08_CalculoDeMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\obj\Debug\net10.0\08_CalculoDeMedia.AssemblyInfoInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\obj\Debug\net10.0\08_CalculoDeMedia.AssemblyInfo.cs
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\obj\Debug\net10.0\08_CalculoDeMedia.csproj.CoreCompileInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\obj\Debug\net10.0\08_CalculoDeMedia.dll
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\obj\Debug\net10.0\refint\08_CalculoDeMedia.dll
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\obj\Debug\net10.0\08_CalculoDeMedia.pdb
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\obj\Debug\net10.0\08_CalculoDeMedia.genruntimeconfig.cache
+C:\dev\TesteDesenvolvimentoDigifort\08_CalculoDeMedia\obj\Debug\net10.0\ref\08_CalculoDeMedia.dll

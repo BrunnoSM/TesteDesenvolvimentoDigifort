@@ -1,0 +1,14 @@
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\bin\Debug\net10.0\05_VerificacaoDePalindromo.exe
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\bin\Debug\net10.0\05_VerificacaoDePalindromo.deps.json
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\bin\Debug\net10.0\05_VerificacaoDePalindromo.runtimeconfig.json
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\bin\Debug\net10.0\05_VerificacaoDePalindromo.dll
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\bin\Debug\net10.0\05_VerificacaoDePalindromo.pdb
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\obj\Debug\net10.0\05_VerificacaoDePalindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\obj\Debug\net10.0\05_VerificacaoDePalindromo.AssemblyInfoInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\obj\Debug\net10.0\05_VerificacaoDePalindromo.AssemblyInfo.cs
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\obj\Debug\net10.0\05_VerificacaoDePalindromo.csproj.CoreCompileInputs.cache
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\obj\Debug\net10.0\05_VerificacaoDePalindromo.dll
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\obj\Debug\net10.0\refint\05_VerificacaoDePalindromo.dll
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\obj\Debug\net10.0\05_VerificacaoDePalindromo.pdb
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\obj\Debug\net10.0\05_VerificacaoDePalindromo.genruntimeconfig.cache
+C:\dev\TesteDesenvolvimentoDigifort\05_VerificacaoDePalindromo\obj\Debug\net10.0\ref\05_VerificacaoDePalindromo.dll
